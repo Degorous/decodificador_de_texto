@@ -16,7 +16,7 @@
 <img src="https://github.com/user-attachments/assets/88454c92-3e59-4400-ae2e-0fa8df1fdfb9">
 
 ## Como abrir o projeto
-<p>Para abrir o projeto basta abrir o arquivo "index.html" no navegador.</p>
+<p>Para abrir o projeto basta abrir o arquivo "index.html".</p>
 
 ## Desenvolvido por:
 
